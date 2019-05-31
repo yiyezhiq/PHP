@@ -1,0 +1,7 @@
+<?php
+$hostname_conn="localhost";  //设置服务器名称
+$database_conn="guestbook";  //设置数据库名称
+$username_conn="root";       //设置连接用户名
+$password_conn="root";       //设置用户密码
+$conn=mysql_connect($hostname_conn,$username_conn,$password_conn);
+?>

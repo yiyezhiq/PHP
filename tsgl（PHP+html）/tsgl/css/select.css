@@ -1,0 +1,129 @@
+@charset "utf-8";
+@charset "utf-8";
+.body{
+	margin:0 auto;
+	width:1000px;
+	height:1500px;
+}
+a{text-decoration:none;}
+/*banner部分开始*/
+.head{
+    width:800px;
+	height:120px;
+	margin-left:100px;
+	background:url(../images/book_02.gif);
+	position:relative;
+}
+	.login{
+		width:100px;	
+		text-align:center;
+		margin-left:680px;
+		margin-top:20px;
+		position:absolute;
+	}
+		  .login a{
+			  text-decoration:none;
+			  font-size:15px;
+		  
+		  }
+		  .login a:hover{
+			  color:#F00;
+		  }
+	.nav{
+		width:800px;
+		height:30px;
+		position:relative;
+		left:100px;
+		line-height:30px;
+		
+	}
+		  .nav a{
+			  width:250px;
+			  display:inline-block;
+			  height:30px;
+			  text-align:center;
+			  text-decoration:none;
+				  
+		  }
+		  .nav a:hover{
+			  width:250px;
+			  height:30px;
+			  display:inline-block;
+			  background:#0F0;
+			  text-align:center;
+		  }
+/*banner部分结束*/
+
+/*主要内容开始*/
+.connect{
+	
+	width:800px;
+	height:460px;
+	position:relative;
+	left:100px;
+}
+	  .connect-head{
+		  
+		  width:800px;
+		  height:30px;
+		  background:url(../images/book_05_03.gif);
+		  position:absolute;
+		  
+		  
+	  }
+			.connect-head p{
+				width:120px;
+				height:30px;
+				color:#FFF;
+				margin-left:150px;
+				margin-top:5px;
+			}
+			.select{
+				width:120px;
+				position:absolute;
+				left:260px;
+				top:5px;
+				
+			}
+			.select2{
+				width:120px;
+				position:absolute;
+				left:460px;
+				top:5px;
+				
+			}
+			.button{
+				width:120px;
+				position:absolute;
+				left:540px;
+				top:0px;
+				
+			}
+	  .connect-main{
+		  width:800px;
+		  height:430px;
+		  background:url(../images/book_11.gif);
+		  position:absolute;
+		  top:30px;
+	  }
+	      .connect-main table{
+			   margin-top:80px;
+			   
+		  }
+	     
+		   
+/*主要内容结束*/
+
+/*底部开始*/
+.foot{
+	width:800px;
+	height:40px;
+	left:100px;
+	background:url(../images/book_07.gif);
+	position:relative;
+}
+/*底部结束*/
+/* CSS Document */
+
+/* CSS Document */
+
